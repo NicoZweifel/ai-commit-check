@@ -10,7 +10,7 @@ This behavior can be disabled if you wish to react to the [outputs](#outputs) yo
 > ChatGPT, Gemini, Jules, Devin, Aider) but may not be entirely comprehensive, especially
 > as models evolve and change. See [`scripts/check.sh`](scripts/check.sh) for the current
 > default patterns. Please [open an issue][new-issue] or a PR if you find patterns that
-> were missed, or any false positives!
+> were missed, or encounter any false positives!
 
 [new-issue]: https://github.com/Jondolf/ai-commit-check/issues/new
 
